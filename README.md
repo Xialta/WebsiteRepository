@@ -12,4 +12,4 @@ List of the purpose of this app.
 
 ## Deployment
 
-Information about deployment.
+Information about the deployment of this app.
