@@ -1,6 +1,6 @@
 ## Starter Web Project
 
-This is a simple web app.
+This is a sample web app.
 
 ## Introduction
 
