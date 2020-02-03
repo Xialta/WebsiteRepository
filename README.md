@@ -8,7 +8,7 @@ This is a short introduction.
 
 ## Purpose
 
-List of the purpose of this app.
+List of the purpose of this application.
 
 ## Deployment
 
