@@ -5,6 +5,7 @@ This is a sample website application.
 ## Introduction
 
 This is a short introduction for the application.
+John Corona Virus
 
 ## Purpose
 
