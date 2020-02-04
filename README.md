@@ -22,4 +22,4 @@ Shows updates done to this application.
 
 ## Copyright
 
-2019 Oliber
+2019 Oliber Kuzon
