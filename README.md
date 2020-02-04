@@ -4,7 +4,7 @@ This is a sample website application.
 
 ## Introduction
 
-This is a short introduction.
+This is a short introduction for the application.
 
 ## Purpose
 
