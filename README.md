@@ -13,3 +13,7 @@ List of the purpose of this application.
 ## Deployment
 
 Information about the deployment of this application.
+
+## Updates
+
+Shows updates done to this application.
