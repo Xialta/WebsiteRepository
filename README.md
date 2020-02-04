@@ -17,3 +17,7 @@ Information about the deployment of this application.
 ## Updates
 
 Shows updates done to this application.
+
+## Copyright
+
+2019 Oliber
